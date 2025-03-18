@@ -4,7 +4,7 @@ Implementação de Fila em Python
 Este arquivo demonstra duas implementações de filas: uma baseada em lista Python (dinâmica) 
 e outra implementando uma fila circular baseada em array com tamanho fixo.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab 
 '''
 
 # Implementação 1: Fila usando lista Python (implementação dinâmica)
