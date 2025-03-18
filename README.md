@@ -50,10 +50,10 @@ Este repositório está organizado da seguinte forma:
 
 Cada diretório contém arquivos README.md explicativos e implementações práticas em Python para demonstrar os conceitos abordados.
 
-## Autores
+## Autor
 
 - Alef Khatab
-- Kaynã Barbosa de Miranda
+
 
 ## Disciplina
 
