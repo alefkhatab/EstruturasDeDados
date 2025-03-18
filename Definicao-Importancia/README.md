@@ -80,4 +80,4 @@ A escolha entre estruturas lineares e não lineares depende das operações que 
 
 Entender as características e trade-offs de cada estrutura é fundamental para desenvolver software eficiente e escalável.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab 
