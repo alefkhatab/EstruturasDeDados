@@ -4,7 +4,7 @@ Implementação de Lista Encadeada em Python
 Este arquivo demonstra a implementação e uso de uma lista encadeada simples,
 incluindo as operações básicas de inserção, remoção, busca e percurso.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab 
 '''
 
 class Node:
