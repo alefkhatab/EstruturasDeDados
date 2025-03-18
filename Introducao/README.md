@@ -52,4 +52,4 @@ As estruturas de dados são fundamentais na ciência da computação e desenvolv
 
 As estruturas de dados são componentes essenciais na construção de sistemas de software eficientes e escaláveis. A escolha da estrutura de dados adequada pode significar a diferença entre um programa que executa em milissegundos e outro que leva horas. Por isso, compreender as características, vantagens e limitações de cada estrutura é fundamental para qualquer desenvolvedor ou cientista da computação.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab 
