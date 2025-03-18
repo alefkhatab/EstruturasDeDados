@@ -144,4 +144,4 @@ Variação das listas encadeadas que adiciona "atalhos" para permitir busca mais
 
 Listas são estruturas fundamentais na programação e servem como base para muitas outras estruturas de dados. A escolha entre arrays e listas encadeadas depende das operações predominantes na aplicação, do padrão de acesso aos dados e das restrições de memória. Cada tipo oferece vantagens e desvantagens específicas que devem ser consideradas no contexto do problema a ser resolvido.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab
