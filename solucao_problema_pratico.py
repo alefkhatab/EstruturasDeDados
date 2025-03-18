@@ -5,7 +5,7 @@ Este arquivo implementa um sistema simplificado de gerenciamento de processos,
 similar ao utilizado em sistemas operacionais. Demonstra a aplicação prática de
 filas e filas de prioridade como estruturas de dados para gerenciamento eficiente.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autor: Alef Khatab
 '''
 
 import heapq
