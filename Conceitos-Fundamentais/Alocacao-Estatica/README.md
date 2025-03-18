@@ -89,4 +89,4 @@ def process_data():
 
 A alocação estática de memória é uma abordagem fundamental na programação, oferecendo previsibilidade e eficiência em troca de flexibilidade. É especialmente útil em cenários onde o tamanho dos dados é conhecido antecipadamente e não muda durante a execução do programa. Em sistemas modernos, é comum combinar alocação estática e dinâmica para obter o melhor dos dois mundos: eficiência para dados de tamanho fixo e flexibilidade para dados de tamanho variável.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab 
