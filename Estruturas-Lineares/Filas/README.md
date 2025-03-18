@@ -165,4 +165,4 @@ Distribuição de trabalho entre vários processadores ou servidores.
 
 Filas são estruturas de dados fundamentais com ampla aplicação em sistemas computacionais. Seu princípio FIFO simples e intuitivo reflete muitos processos do mundo real, tornando-as indispensáveis em várias situações de programação. A escolha da implementação adequada depende das necessidades específicas de cada aplicação, considerando fatores como eficiência espacial, desempenho temporal e facilidade de manutenção.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab
