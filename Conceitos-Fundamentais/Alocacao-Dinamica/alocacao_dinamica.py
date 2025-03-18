@@ -5,7 +5,7 @@ Observação: Python gerencia automaticamente a alocação de memória,
 mas este exemplo ilustra o conceito de alocação dinâmica através
 de estruturas que crescem conforme necessário.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab
 '''
 
 # 1. Lista dinâmica
