@@ -194,4 +194,4 @@ def infix_to_postfix(expression):
 
 Pilhas são estruturas de dados fundamentais com um princípio simples mas poderoso. Seu comportamento LIFO as torna ideais para problemas que envolvem rastreamento de histórico, avaliação de expressões e implementação de algoritmos recursivos de forma iterativa. A escolha entre implementações baseadas em arrays ou listas encadeadas depende das necessidades específicas da aplicação, considerando fatores como flexibilidade de tamanho, eficiência de memória e desempenho.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab 
