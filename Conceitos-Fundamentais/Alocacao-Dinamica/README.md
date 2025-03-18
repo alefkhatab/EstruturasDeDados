@@ -65,4 +65,4 @@ Diferentes linguagens de programação oferecem diferentes mecanismos para aloca
 
 A alocação dinâmica de memória é uma ferramenta poderosa que permite aos programas adaptarem-se às necessidades de dados variáveis em tempo de execução. Embora ofereça flexibilidade, também introduz complexidade adicional e potenciais problemas de desempenho e gerenciamento de memória. Em sistemas modernos, muitas linguagens de programação oferecem mecanismos automáticos como coleta de lixo para mitigar alguns desses problemas, tornando a alocação dinâmica mais segura e fácil de usar.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab 
