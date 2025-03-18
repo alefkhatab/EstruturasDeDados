@@ -2,7 +2,7 @@
 Comparação de Desempenho - Estruturas de Dados
 Este script demonstra como diferentes estruturas de dados podem afetar o desempenho de operações comuns.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab
 '''
 
 import time
