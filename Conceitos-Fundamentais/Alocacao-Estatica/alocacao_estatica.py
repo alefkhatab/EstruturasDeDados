@@ -4,7 +4,7 @@ Demonstração de Alocação Estática de Memória em Python
 Observação: Python gerencia automaticamente a alocação de memória, mas este exemplo
 ilustará o conceito de alocação estática através de estruturas de tamanho fixo.
 
-Autores: Alef Khatab e Kaynã Barbosa de Miranda
+Autores: Alef Khatab 
 '''
 
 # 1. Variáveis globais (alocação estática)
